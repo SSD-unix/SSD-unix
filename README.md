@@ -1,16 +1,35 @@
-## Hi there 👋
+> **Systems & Low-Level Developer from Armenia 🇦🇲**  
+> Passionate about bare-metal code, operating systems architecture, and terminal-driven workflows.
 
-<!--
-**SSD-unix/SSD-unix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** C, Assembly (x86 / ARM), Rust, Python, Bash
+* **Environment:** Arch Linux, Wayland, Hyprland / COSMIC
+* **Focus Areas:** Kernel Development, System Utilities, Bootloaders, Low-level Networking
+
+---
+
+### 🚀 Key Projects
+
+* 💻 **[MIGHT_OS](https://github.com/SSD-unix/MIGHT_OS)** — Custom bare-metal operating system for x86 & ARM architectures.
+* 📦 **[TURBOPACK](https://github.com/SSD-unix/TURBOPACK)** — Lightweight system packaging & deployment toolset.
+* ⚡ **[turboget](https://github.com/SSD-unix/turboget)** — Minimalist command-line fetching utility.
+* 🚀 **[narodni_launcher](https://github.com/SSD-unix/narodni_launcher)** — Custom desktop application launcher.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SSD-unix&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSD-unix&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect & Support
+
+* 🌐 **Website:** [ssdunix.xyz](https://ssdunix.xyz)
+* ☕ **Buy Me a Coffee:** [buymeacoffee.com/ssdunix](https://buymeacoffee.com/ssdunix)
