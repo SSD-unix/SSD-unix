@@ -5,7 +5,7 @@
 
 ### 🛠 Tech Stack & Tools
 
-* **Languages:** C, Assembly (x86 / ARM), Rust, Python, Bash
+* **Languages:** C(50/50), Python, Bash
 * **Environment:** Arch Linux, Wayland, Hyprland / COSMIC
 * **Focus Areas:** Kernel Development, System Utilities, Bootloaders, Low-level Networking
 
