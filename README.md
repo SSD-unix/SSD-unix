@@ -28,10 +28,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-nu.vercel.app/api?username=SSD-unix&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="SSD-unix's GitHub Stats" />
-  <img src="https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=SSD-unix&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SSD-unix&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSD-unix&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%" />
+
+</div>
+
 
 ---
 
