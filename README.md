@@ -13,7 +13,7 @@
 
 ### 🚀 Key Projects
 
-* 💻 **[MIGHT_OS](https://github.com/SSD-unix/MIGHT_OS)** — Custom bare-metal operating system for x86 & ARM architectures.
+* 💻 **[MIGHT_OS](https://github.com/SSD-unix/MIGHT_OS)** — Custom bare-metal operating system for x86-64 architecture.
 * 📦 **[TURBOPACK](https://github.com/SSD-unix/TURBOPACK)** — Lightweight system packaging & deployment toolset.
 * ⚡ **[turboget](https://github.com/SSD-unix/turboget)** — Minimalist  WGET/git clone in one package.
 * 🚀 **[VESTA launcher](https://github.com/SSD-unix/VESTA)** — good MC launcher.
